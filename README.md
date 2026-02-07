@@ -1,4 +1,4 @@
-Web Developer since 2023! I have a passion for code!
+Hey I'm Shadorux. Web Developer since 2023! I have a passion for code!
 
 I'm a Scripter for Polytoria dev teams.
 
