@@ -1,3 +1,19 @@
-my ultimate brother https://github.com/hedgehogform
+Web Developer since 2023! I have a passion for code!
 
-Uhh ill put other stuff here soon idk
+I'm a Scripter for Polytoria dev teams.
+
+## Current
+- Scripter for Axelands
+- Scripter and Tester for unnamed team (new)
+
+## Focus
+- Gameplay scripting (Lua) on Polytoria
+- Web Development (Astro, Vue)
+
+## Tech
+**Languages:** Lua, JavaScript, HTML, CSS, Typescript, Markdown
+**Frameworks:** Astro, Vue
+
+- ultimate mention https://github.com/hedgehogform
+
+
