@@ -11,8 +11,9 @@ I'm a Scripter for Polytoria dev teams.
 - Web Development (Astro, Vue)
 
 ## Tech
-**Languages:** Lua, JavaScript, HTML, CSS, Typescript, Markdown
-**Frameworks:** Astro, Vue
+Languages: Lua, JavaScript, HTML, CSS, Typescript, Markdown
+
+Frameworks: Astro, Vue
 
 - ultimate mention https://github.com/hedgehogform
 
