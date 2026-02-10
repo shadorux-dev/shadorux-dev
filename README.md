@@ -3,7 +3,7 @@ Hey I'm Shadorux. Web Developer since 2023! I have a passion for code!
 I'm a Scripter for Polytoria dev teams.
 
 ## Current
-- Scripter for Axelands
+- Scripter for Axelands https://polytoria.com/guilds/3568# 
 - Scripter and Tester for unnamed team (new)
 
 ## Focus
