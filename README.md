@@ -4,7 +4,6 @@ I'm a Scripter for Polytoria dev teams.
 
 ## Current
 - Scripter for Axelands https://polytoria.com/guilds/3568# 
-- Scripter and Tester for unnamed team (new)
 
 ## Focus
 - Gameplay scripting (Lua) on Polytoria
